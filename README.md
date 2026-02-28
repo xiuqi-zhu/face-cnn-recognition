@@ -1,4 +1,4 @@
-# 11785 HW2P2: Face Recognition and Verification
+# Face Recognition and Verification
 
 Face classification and verification with CNN (CMU 11-785).
 
