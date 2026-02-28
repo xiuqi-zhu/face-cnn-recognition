@@ -1,0 +1,15 @@
+# HW2P2 Face Verification (PyTorch)
+torch>=2.0
+torchvision>=0.15
+numpy
+pandas
+Pillow
+scikit-learn
+scipy
+tqdm
+wandb
+torchinfo
+pytorch-metric-learning
+
+# Optional: for Colab/Kaggle
+# kaggle
